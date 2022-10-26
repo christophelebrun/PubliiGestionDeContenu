@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Site Publii - Cours &quot;Gestion de Contenus&quot; (HEG)",
+    "description": "",
+    "home_page_url": "https://christophelebrun.github.io/PubliiGestionDeContenu",
+    "feed_url": "https://christophelebrun.github.io/PubliiGestionDeContenu/feed.json",
+    "user_comment": "",
+    "icon": "https://christophelebrun.github.io/PubliiGestionDeContenu/media/website/systeme-gestion-contenu-1024x512-716124270.png",
+    "author": {
+        "name": "Christophe LEBRUN"
+    },
+    "items": [
+        {
+            "id": "https://christophelebrun.github.io/PubliiGestionDeContenu/ceci-est-ma-premiere-page.html",
+            "url": "https://christophelebrun.github.io/PubliiGestionDeContenu/ceci-est-ma-premiere-page.html",
+            "title": "Ceci est ma première page !",
+            "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/gallery/csm_HEG_Geneve_batiment_9e21d2ba89-1992913358.jpg\" data-size=\"1874x800\"><img loading=\"lazy\" src=\"https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/gallery/csm_HEG_Geneve_batiment_9e21d2ba89-1992913358-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"307\"></a></figure>\n</div></div>\n<p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</strong></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/f5bc47b21819c8fe910b33e132bef421-194005192.jpg\" sizes=\"100vw\" srcset=\"https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/responsive/f5bc47b21819c8fe910b33e132bef421-194005192-xs.jpg 300w ,https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/responsive/f5bc47b21819c8fe910b33e132bef421-194005192-sm.jpg 480w ,https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/responsive/f5bc47b21819c8fe910b33e132bef421-194005192-md.jpg 768w ,https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/responsive/f5bc47b21819c8fe910b33e132bef421-194005192-lg.jpg 1024w ,https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/responsive/f5bc47b21819c8fe910b33e132bef421-194005192-xl.jpg 1360w ,https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/responsive/f5bc47b21819c8fe910b33e132bef421-194005192-2xl.jpg 1600w\"  alt=\"\" width=\"1920\" height=\"1080\"></figure>\n<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p> </p>",
+            "author": {
+                "name": "Christophe LEBRUN"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-10-26T12:09:15+02:00",
+            "date_modified": "2022-10-26T12:14:10+02:00"
+        }
+    ]
+}

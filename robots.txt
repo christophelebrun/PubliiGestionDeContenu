@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://christophelebrun.github.io/PubliiGestionDeContenu/sitemap.xml

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://christophelebrun.github.io/PubliiGestionDeContenu/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://christophelebrun.github.io/PubliiGestionDeContenu/</loc>
+</url>
+<url>
+<loc>https://christophelebrun.github.io/PubliiGestionDeContenu/ceci-est-ma-premiere-page.html</loc>
+<lastmod>2022-10-26T12:14:10+02:00</lastmod>
+<image:image>
+<image:loc>https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/gallery/csm_HEG_Geneve_batiment_9e21d2ba89-1992913358-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://christophelebrun.github.io/PubliiGestionDeContenu/media/posts/1/f5bc47b21819c8fe910b33e132bef421-194005192.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
